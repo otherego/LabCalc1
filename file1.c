@@ -4,6 +4,7 @@
 /*
 Qui sotto ci mettiamo i prototipi di tutte le noste funzioni
  */
+void messaggioIntro();
 
 
 
@@ -24,3 +25,7 @@ int main(){
 /*
 Qui sotto le nostre innumerevoli funzioni
  */
+void messaggioIntro(){
+  printf("\nBenvenuto nel nostro programma\n");
+  return;
+}
