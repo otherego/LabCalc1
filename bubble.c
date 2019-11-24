@@ -1,4 +1,4 @@
-//Emilio Taggi 1910388
+//Emilio Taggi 
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h> //ho incluso le librerie di cui avrò bisogno
